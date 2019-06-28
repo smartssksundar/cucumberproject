@@ -14,5 +14,5 @@ Feature: Login
 
     Examples: 
       | Username | Password   |
-      | lalitha  |password123 |
+      |AlexUser  |Alex@123    |
      

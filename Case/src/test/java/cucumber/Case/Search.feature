@@ -13,5 +13,5 @@ Feature: Search
 
     Examples: 
       | username  | password   | 
-      | sskssk    | Sundar123  |
+      |AlexUser   |Alex@123    |
    

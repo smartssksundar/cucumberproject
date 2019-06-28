@@ -13,7 +13,7 @@ Feature: AddtoCart
     Then Testme didn't display that icon
     Examples:
     |username   |password   |
-    |sskssk     |Sundar123  |
+    |AlexUser   |Alex@123   |
    
 
    @Passthat
@@ -24,5 +24,5 @@ Feature: AddtoCart
     Then find the cart icon
     Examples:
     |usernames   |passwords   |
-    |sskssk      |Sundar123   |
-   
+    |AlexUser    |Alex@123    |
+  

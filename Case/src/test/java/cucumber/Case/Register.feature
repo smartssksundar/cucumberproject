@@ -7,10 +7,10 @@ Feature: Register
   Scenario: PassTheData
    Given open the testMe Application
     When  Enter the details 
-    |username| firstname|lastname|password  |conformpsd|mail         |mobile     |address               |
-    |sskssk  |sundar    |kumar   |Sundar123 |Sundar123 |ssk@gmail.com|9595959595 | boyampalayam, Tirupur| 
+    |username    | firstname|lastname|password  |conformpsd|mail          |mobile     |address               |
+    ||AlexUser   |Alex      |Pandian |Alex@123  |Alex@123  |Alex@gmail.com|9595959595 | dubai main road,Dubai| 
     And   click the Register Button
     Then  get the login Page
   
 
- 
+    |   |
