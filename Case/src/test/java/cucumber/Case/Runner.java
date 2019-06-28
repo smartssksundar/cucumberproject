@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(monochrome=true,tags=("@Addtocart"))
+@CucumberOptions(monochrome=true,tags=("@register"))
 public class Runner {
 
 }

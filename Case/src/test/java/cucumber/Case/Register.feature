@@ -12,5 +12,3 @@ Feature: Register
     And   click the Register Button
     Then  get the login Page
   
-
-    |   |
